@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T16:33:20.601Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="CMkt6WVogEOs_fYorYpg" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T16:48:41.192Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9Rr9NjU1_yaDfRDH6BAS" version="20.5.1" type="github">
   <diagram id="6eiBafZvdbaaH6hVwIQc" name="Page-1">
-    <mxGraphModel dx="2547" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2340" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
         <mxCell id="47W-kIJc0GCAlFT9CI7K-12" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_peering;fillColor=#F58536;gradientColor=none;" parent="47W-kIJc0GCAlFT9CI7K-19" vertex="1">
           <mxGeometry x="381" y="434" width="69" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="Y24BwYMeVJGgvO10QMDz-1" value="192.168.1.0/22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=24;fontStyle=1" vertex="1" parent="47W-kIJc0GCAlFT9CI7K-19">
+        <mxCell id="Y24BwYMeVJGgvO10QMDz-1" value="192.168.0.0/22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=24;fontStyle=1" vertex="1" parent="47W-kIJc0GCAlFT9CI7K-19">
           <mxGeometry x="335" y="200" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y24BwYMeVJGgvO10QMDz-2" value="192.168.4.0/22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=24;fontStyle=1" vertex="1" parent="47W-kIJc0GCAlFT9CI7K-19">
@@ -82,7 +82,7 @@
         <mxCell id="Y24BwYMeVJGgvO10QMDz-3" value="192.168.8.0/22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=24;fontStyle=1" vertex="1" parent="47W-kIJc0GCAlFT9CI7K-19">
           <mxGeometry x="625" y="550" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y24BwYMeVJGgvO10QMDz-8" value="Subnet1:192.168.1.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;fontStyle=1" vertex="1" parent="47W-kIJc0GCAlFT9CI7K-19">
+        <mxCell id="Y24BwYMeVJGgvO10QMDz-8" value="Subnet1:192.168.0.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;fontStyle=1" vertex="1" parent="47W-kIJc0GCAlFT9CI7K-19">
           <mxGeometry x="295" y="220" width="155" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y24BwYMeVJGgvO10QMDz-9" value="Subnet1:192.168.4.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;fontStyle=1" vertex="1" parent="47W-kIJc0GCAlFT9CI7K-19">
