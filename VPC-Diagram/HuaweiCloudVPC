@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T14:48:37.975Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="o1TBFJJMdAfUP_rxrFeo" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T15:23:37.253Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="YuC-rMt3zwFtu8Q9ClpQ" version="20.5.1" type="github">
   <diagram id="6eiBafZvdbaaH6hVwIQc" name="Page-1">
     <mxGraphModel dx="1447" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -22,17 +22,26 @@
         <mxCell id="47W-kIJc0GCAlFT9CI7K-16" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;" parent="47W-kIJc0GCAlFT9CI7K-15" vertex="1">
           <mxGeometry x="60" y="37" width="50" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="Y24BwYMeVJGgvO10QMDz-5" value="Ubuntu1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=24;fontStyle=1" vertex="1" parent="47W-kIJc0GCAlFT9CI7K-15">
+          <mxGeometry x="56" y="70" width="60" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="47W-kIJc0GCAlFT9CI7K-20" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" parent="47W-kIJc0GCAlFT9CI7K-19" vertex="1">
           <mxGeometry x="60" y="410" width="172" height="120" as="geometry" />
         </mxCell>
         <mxCell id="47W-kIJc0GCAlFT9CI7K-21" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;" parent="47W-kIJc0GCAlFT9CI7K-20" vertex="1">
           <mxGeometry x="60" y="37" width="50" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="Y24BwYMeVJGgvO10QMDz-6" value="Ubuntu2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=24;fontStyle=1" vertex="1" parent="47W-kIJc0GCAlFT9CI7K-20">
+          <mxGeometry x="50" y="70" width="60" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="47W-kIJc0GCAlFT9CI7K-22" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" parent="47W-kIJc0GCAlFT9CI7K-19" vertex="1">
           <mxGeometry x="540" y="410" width="172" height="120" as="geometry" />
         </mxCell>
         <mxCell id="47W-kIJc0GCAlFT9CI7K-23" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;" parent="47W-kIJc0GCAlFT9CI7K-22" vertex="1">
           <mxGeometry x="60" y="37" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Y24BwYMeVJGgvO10QMDz-7" value="Ubuntu3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=24;fontStyle=1" vertex="1" parent="47W-kIJc0GCAlFT9CI7K-22">
+          <mxGeometry x="60" y="70" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="47W-kIJc0GCAlFT9CI7K-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_peering;fillColor=#F58536;gradientColor=none;" parent="47W-kIJc0GCAlFT9CI7K-19" vertex="1">
           <mxGeometry x="180" y="240" width="69" height="72" as="geometry" />
