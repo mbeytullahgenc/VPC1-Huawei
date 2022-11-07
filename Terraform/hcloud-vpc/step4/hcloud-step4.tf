@@ -19,7 +19,7 @@ variable "ecs_name" {
 }
 
 variable "network_id" {
-    default = ["4a790d30-16ce-4baa-9a22-ae4c0428e2a1","45f494a5-3919-4fbc-9360-fb16bbdddf8b"]
+    default = ["fc4d6787-9fbf-49fb-a6be-aa59d06e7725","2f3479f5-6341-4d98-ab81-58fc35543e55"]
   
 }
 

@@ -18,11 +18,11 @@ variable "vpcpeering" {
   default = ["VPC1-VPC2", "VPC1-VPC3", "VPC2-VPC3"]
 }
 variable "vpcname" {
-  default = ["9a4510e8-09f1-478c-b292-bd48239ce34c", "9a4510e8-09f1-478c-b292-bd48239ce34c", "a88d723e-0f1f-475c-b65f-6323e55691b2"]
+  default = ["1dbcf5e1-a81d-4a50-9351-7eba1aff9bab", "1dbcf5e1-a81d-4a50-9351-7eba1aff9bab", "a67571fd-2bdb-437c-8790-d5ecf7af9827"]
 }
 
 variable "vpcpeername" {
-  default = ["840483c7-d3ac-4957-9bec-48689ee80cf1", "32d89d1c-8d82-4be6-848d-b79a5348289e", "32d89d1c-8d82-4be6-848d-b79a5348289e"]
+  default = ["a67571fd-2bdb-437c-8790-d5ecf7af9827", "5ad31f18-f664-4f09-b61d-7c89c91a5cb6", "5ad31f18-f664-4f09-b61d-7c89c91a5cb6"]
 }
 
 

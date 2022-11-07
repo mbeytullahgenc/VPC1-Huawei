@@ -15,7 +15,7 @@ provider "huaweicloud" {
 }
 
 resource "huaweicloud_rds_database" "test" {
-  instance_id   = "31a6f210c4624672a9f03bd7ad6ad967in01"
+  instance_id   = "377470c376e1416797c842460fa42654in01"
   name          = "test1"
   character_set = "utf8"
   description   = "cloud test db"

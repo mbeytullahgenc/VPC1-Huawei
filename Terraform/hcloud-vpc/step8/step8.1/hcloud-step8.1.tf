@@ -15,7 +15,7 @@ provider "huaweicloud" {
 }
 
 variable "vpcid" {
-  default = ["f0ea5225-912f-4c32-8697-ffe27571bdb3","f0ea5225-912f-4c32-8697-ffe27571bdb3"]
+  default = ["1dbcf5e1-a81d-4a50-9351-7eba1aff9bab","1dbcf5e1-a81d-4a50-9351-7eba1aff9bab"]
 }
 
 variable "dest" {
@@ -23,11 +23,11 @@ variable "dest" {
 }
 
 variable "next" {
-  default = ["bab15c76-40bb-4ceb-8811-2fd892df0f20","110bd4b9-705f-41c1-a8f9-32e3a69f8715"]
+  default = ["c78b20c1-e413-49db-978c-6747cdd2eb55","e9180e3c-8fe2-44c0-b392-07d2070f2453"]
 }
 
 data "huaweicloud_vpc_route_table" "rtb" {
-  vpc_id = "f0ea5225-912f-4c32-8697-ffe27571bdb3"
+  vpc_id = "1dbcf5e1-a81d-4a50-9351-7eba1aff9bab"
   name   = "rtb-vpc1"
 }
 

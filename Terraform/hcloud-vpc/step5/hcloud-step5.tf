@@ -21,9 +21,9 @@ name = "secgroup-basic"
 resource "huaweicloud_rds_instance" "instance" {
   name              = "rds-mysql1"
   flavor            = "rds.mysql.n1.large.2"
-  vpc_id            = "32d89d1c-8d82-4be6-848d-b79a5348289e"
-  subnet_id         = "19e6d6b4-e334-490a-bce9-a9d257cc0b20"
-  security_group_id = "1c025496-b03e-402d-9ff0-04218190f414"
+  vpc_id            = "5ad31f18-f664-4f09-b61d-7c89c91a5cb6"
+  subnet_id         = "81a91e91-61ac-4bdc-9d6f-e9927b8d6f6a"
+  security_group_id = "ee8586ad-4da4-44e9-887f-7ff8e1e693ea"
   availability_zone = ["ap-southeast-1b"]
 
   db {

@@ -19,7 +19,7 @@ variable "subnet_name" {
   
 }
 variable "vpc_in" {
-    default = ["9a4510e8-09f1-478c-b292-bd48239ce34c","840483c7-d3ac-4957-9bec-48689ee80cf1","32d89d1c-8d82-4be6-848d-b79a5348289e"]
+    default = ["1dbcf5e1-a81d-4a50-9351-7eba1aff9bab","a67571fd-2bdb-437c-8790-d5ecf7af9827","5ad31f18-f664-4f09-b61d-7c89c91a5cb6"]
 
 }
 variable "subnet_cidr" {
